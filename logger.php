@@ -7,7 +7,7 @@ Private methods - log
 
 Usage - 
 Log levels are setup in constants file
-Pass the filename , log level (level) and the optional date format for logging.
+Pass  ,log level (level) for logging.
 based on the log level passed as level in constructor respective logs are printed
 Example , if log level is DEBUG , every level less than or equal to debug level will be logged 
 
